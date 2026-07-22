@@ -31,14 +31,14 @@ This library uses UART2 mapped to GPIO16 as RX and GPIO0 as TX. Using UART1 on t
 Flash it with vstudio code and platform.io (extension for vstudio code) 
 
 
-The wiring is simple. it requires a 12v power supply like a wall charger, an ESP32 WROOM32 and some jumpers.
+The wiring is simple. it requires a 12v power supply like a wall charger, an ESP32 WROOM32 and some jumpers. </br>
 
-The 12V +- is connected to the MKS 42C drivers V+ and GND input on the big terminal. The GND of the 12V PSU is also connected to the ESP GND. After that only RX/TX for UART are connected. 
+The 12V +- is connected to the MKS 42C drivers V+ and GND input on the big terminal. The GND of the 12V PSU is also connected to the ESP GND. After that only RX/TX for UART are connected. </br>
 
-ESP RX (GPIO16) -> MKS42C TX 
-ESP TX (GPIO0)  -> MKS42C RX 
+ESP RX (GPIO16) -> MKS42C TX </br>
+ESP TX (GPIO0)  -> MKS42C RX </br>
 
-The 3.3v and GND pins on the little UART interface on the driver are not used.
+The 3.3v and GND pins on the little UART interface on the driver are not used. </br>
 
 
 </br></br>
