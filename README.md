@@ -2,6 +2,11 @@
 
 Finalized the config to fit the new spool controller!
 
+Video about how to flash the config:
+https://www.youtube.com/watch?v=8qTKG446kOc
+
+</br></br>
+
 # About this library
 
 This library is made to configure a Makerbase Servo42C in uart mode with the softest settings possible.
