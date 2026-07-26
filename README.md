@@ -1,3 +1,7 @@
+# Update
+
+Finalized the config to fit the new spool controller!
+
 # About this library
 
 This library is made to configure a Makerbase Servo42C in uart mode with the softest settings possible.
